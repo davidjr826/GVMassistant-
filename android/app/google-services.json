@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "989998770503",
+    "project_id": "gvmassistant-26bf8",
+    "storage_bucket": "gvmassistant-26bf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989998770503:android:dca0b198819447ce81c462",
+        "android_client_info": {
+          "package_name": "com.example.gvmassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989998770503-vle08cm7ilmj84vu33vok2o4raph9147.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC40VAmguK1yFYu1_ksY7Wu9elLfGD2fzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989998770503-vle08cm7ilmj84vu33vok2o4raph9147.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
